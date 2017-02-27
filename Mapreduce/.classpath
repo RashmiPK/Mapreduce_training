@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/hadoop-ant-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/hadoop-capacity-scheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/hadoop-client-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/hadoop-common-0.23.3.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/hadoop-examples-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/hadoop-fairscheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/hadoop-hdfs.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/hadoop-minicluster-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/hadoop-test-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/hadoop-thriftfs-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/hadoop-tools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/hadoop jars/sqoop-1.4.2-hadoop20.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
